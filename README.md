@@ -94,6 +94,7 @@ O pipeline de Machine Learning implementado neste projeto envolve as seguintes e
 
 ## Estrutura de Arquivos
 
+```text
 .
 ├── artifacts/
 │   ├── artefatos_engenharia.joblib
@@ -109,8 +110,10 @@ O pipeline de Machine Learning implementado neste projeto envolve as seguintes e
 │   │   └── vagas_raw.json
 │   ├── candidatos_processados.csv
 │   └── vagas_processadas.csv
+├── app.py
 ├── desenvolvimento do modelo.py
 └── README.md
+```
 
 # Como Executar
 
