@@ -56,8 +56,8 @@ O pipeline de Machine Learning implementado neste projeto envolve as seguintes e
     * Divisão dos dados em conjuntos de treino e teste (`X_train`, `X_test`, `y_train`, `y_test`) com estratificação.
 
 7.  **Treinamento e Avaliação de Modelos Baseline**:
-    * **Regressão Logística**: Treinado com `class_weight='balanced'`.
-    * **Random Forest Classifier**: Treinado com `class_weight='balanced'`.
+    * **Regressão Logística**
+    * **Random Forest Classifier**
     * Avaliação utilizando Acurácia, AUC-ROC, Matriz de Confusão e Relatório de Classificação.
     * Análise inicial da importância das features do Random Forest.
 
